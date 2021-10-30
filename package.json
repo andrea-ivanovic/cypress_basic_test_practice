@@ -1,0 +1,11 @@
+{
+  "name": "qa-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrea Ivanovic>",
+  "license": "MIT",
+  "devDependencies": {
+    "@testing-library/cypress": "^7.0.3",
+    "cypress": "^6.3.0"
+  }
+}
